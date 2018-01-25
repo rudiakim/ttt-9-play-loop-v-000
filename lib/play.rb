@@ -37,7 +37,7 @@ end
 
 def play(board)
   9.times do
-    puts play(turn)
-    break
+  play(turn)
+  
   end
 end
